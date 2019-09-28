@@ -1,0 +1,11 @@
+bootstap 4
+ng bootstap 4
+angular google chat
+
+>ng serve                  //run the application
+
+url
+localhost:1266
+
+path of project:
+E:\sampleproject\my-app
