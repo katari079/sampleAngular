@@ -1,8 +1,18 @@
 bootstap 4
-ng bootstap 4
-angular google chat
 
->ng serve                  //run the application
+$npm install bootstrap@4
+
+ng bootstap 4
+$npm install --save @ng-bootstrap/ng-bootstrap@4
+
+
+angular google chat
+$npm i ng-chat
+
+-->when ever run the application  in browser we have to run this command in git bash before the open in browser in  Angular
+
+$ng serve                  //run the application
+
 
 url
 localhost:1266
